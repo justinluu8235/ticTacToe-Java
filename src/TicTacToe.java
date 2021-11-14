@@ -15,4 +15,8 @@ public class TicTacToe implements ActionListener {
 
     }
 
+    public void check(){
+
+    }
+
 }
